@@ -1,2 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Delta Time (s)	Inband Power (dB FS)	Peak Freq (Hz)	NLP	SNR	SQ	Notes
-1	Spectrogram 1	2	2728.822877373	2729.038491799	2699.500	12835.300	0.2156	-64.85	3046.875	No		2	
