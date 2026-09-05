@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Inband Power (dB FS)	Delta Time (s)	Peak Freq (Hz)	SNR	SQ	NLP	BP	DC	FJ	SH	SB	E-Clicks in frame	Notes
+1	Spectrogram 1	2	2728.822877373	2729.038491799	2699.500	12835.300	-64.85	0.2156	3046.875		2	0	0	0	0	0	0		
